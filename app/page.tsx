@@ -36,7 +36,7 @@ export default function Home() {
       {/* Navigation */}
       <nav className="glass sticky top-0 z-50 mx-4 mt-4 rounded-full px-6 py-3 flex items-center justify-between">
         <div className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-          ArtVerse
+          Artzero
         </div>
         <div className="flex gap-4">
           {isLoaded && user ? (
